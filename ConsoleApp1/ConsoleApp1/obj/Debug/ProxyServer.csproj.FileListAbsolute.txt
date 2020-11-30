@@ -1,0 +1,7 @@
+D:\ProxyServer\ProxyServerCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\ProxyServer1.exe.config
+D:\ProxyServer\ProxyServerCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\ProxyServer1.exe
+D:\ProxyServer\ProxyServerCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\ProxyServer1.pdb
+D:\ProxyServer\ProxyServerCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\ProxyServer.csprojAssemblyReference.cache
+D:\ProxyServer\ProxyServerCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\ProxyServer.csproj.CoreCompileInputs.cache
+D:\ProxyServer\ProxyServerCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\ProxyServer1.exe
+D:\ProxyServer\ProxyServerCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\ProxyServer1.pdb
