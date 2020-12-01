@@ -1,3 +1,3 @@
-Clean Fast Socks4 Proxy<br>
+c# Socks4 proxy server<br>
 Can be used for package manipulation<br>
 not recomanded for privacy<br>
